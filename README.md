@@ -11,16 +11,6 @@ LKPD web responsif untuk mata pelajaran Prakarya kelas XI SMA.
 - Cetak atau simpan ke PDF melalui menu cetak browser
 - Dapat dihosting gratis menggunakan GitHub Pages
 
-## Cara hosting di GitHub Pages
-1. Unduh dan ekstrak ZIP ini.
-2. Masuk ke https://github.com dan buat repository baru, misalnya `lkpd-rekayasa-sistem-teknik`.
-3. Unggah file `index.html` ke bagian paling atas (root) repository. File `README.md` boleh ikut diunggah.
-4. Buka **Settings → Pages**.
-5. Pada **Build and deployment**, pilih **Deploy from a branch**.
-6. Pilih branch `main` dan folder `/(root)`, lalu klik **Save**.
-7. Tunggu proses publikasi selesai. URL biasanya berbentuk:
-   `https://USERNAME.github.io/lkpd-rekayasa-sistem-teknik/`
-
 ## Catatan penting
 - Ganti identitas sekolah/guru pada file `index.html` bila diperlukan.
 - Jawaban tersimpan di browser/perangkat yang digunakan, bukan ke server atau akun guru. Jika siswa membuka LKPD di perangkat lain, jawaban tidak otomatis terkirim kepada guru.
